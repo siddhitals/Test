@@ -8,7 +8,14 @@ public class HelloWorld {
 		System.out.println("This is Github Desktop TEST");
 		System.out.println("This is test");
 		
+		String str="This is cap one Financial";
+		System.out.println(str);
+		int a=10;
+		int b=20;
+		System.out.println("Addition: "+a+b);
+		
 		System.out.println("This is testing master branch");
+
 	}
 
 }
